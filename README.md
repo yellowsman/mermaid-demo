@@ -95,7 +95,7 @@ commit
 merge newbranch
 ```
 
-グラフ上に乗る文字の色が薄くてちょっと読みにくい。
+本家のサンプルと異なり、グラフ上に乗る文字の色が薄くて読みにくく、コミットを表す丸が線の後ろになってしまっている。
 
 ## Entity Relationship Diagram - exclamation experimental
 
